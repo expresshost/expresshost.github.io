@@ -1,4 +1,4 @@
 # How to install
 
-* Run `curl install.sh -o install.sh; ./install.sh; rm -rf install.sh;`
+* Run `curl https://expresshost.github.io/install.sh -o install.sh; ./install.sh; rm -rf install.sh;`
 * Boom
